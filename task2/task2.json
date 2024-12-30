@@ -1,0 +1,34 @@
+{
+  "catalog": {
+    "products": [
+      {
+        "name": {
+          "polish_name": "Produkt 1",
+          "english_name": "Product 1"
+        },
+        "reference": "1234",
+        "dimensions": {
+          "length": 10,
+          "width": 20,
+          "height": 30
+        },
+        "color": "red",
+        "year": 2024
+      },
+      {
+        "name": {
+          "polish_name": "Produkt 2",
+          "english_name": "Product 2"
+        },
+        "reference": "1235",
+        "dimensions": {
+          "length": 1,
+          "width": 2,
+          "height": 3
+        },
+        "color": "blue",
+        "year": 2025
+      }
+    ]
+  }
+}

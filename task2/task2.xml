@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <product>
+        <name>
+            <polish_name>Produkt 1</polish_name>
+            <english_name>Product 1</english_name>
+        </name>
+        <reference>1234</reference>
+        <dimensions>
+            <length>10</length>
+            <width>20</width>
+            <height>30</height>
+        </dimensions>
+        <color>red</color>
+        <year>2024</year>
+    </product>
+
+    <product>
+        <name>
+            <polish_name>Produkt 2</polish_name>
+            <english_name>Product 2</english_name>
+        </name>
+        <reference>1235</reference>
+        <dimensions>
+            <length>1</length>
+            <width>2</width>
+            <height>3</height>
+        </dimensions>
+        <color>blue</color>
+        <year>2025</year>
+    </product>
+</catalog>
