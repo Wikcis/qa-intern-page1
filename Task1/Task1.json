@@ -1,0 +1,13 @@
+{
+  "car_body":
+  {
+    "body_type": "sedan",
+    "number_of_doors_seats": {
+      "doors": 4,
+      "seats": 5
+    },
+    "ground_clearance_mm": 160,
+    "trunk_capacity_l": 520,
+    "tire_size": "170/65 R14"
+  }
+}

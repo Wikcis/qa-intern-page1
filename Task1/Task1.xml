@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car_body>
+    <body_type>sedan</body_type>
+    <number_of_doors_seats>
+        <doors>4</doors>
+        <seats>5</seats>
+    </number_of_doors_seats>
+    <ground_clearance_mm>160</ground_clearance_mm>
+    <trunk_capacity_l>520</trunk_capacity_l>
+    <tire_size>175/65 R14</tire_size>
+</car_body>
