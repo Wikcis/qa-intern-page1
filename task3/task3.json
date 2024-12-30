@@ -1,0 +1,12 @@
+{
+  "pet": {
+    "name": "",
+    "species": "",
+    "age": 0,
+    "weight": 0.0,
+    "gender": {
+      "value": "",
+      "allowed_values": ["Male", "Female"]
+    }
+  }
+}

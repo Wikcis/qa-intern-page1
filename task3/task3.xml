@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pet>
+    <name></name>
+    <species></species>
+    <age>0</age>
+    <weight>0.0</weight>
+    <gender>
+        <value></value>
+        <allowed_values>
+            <value>Male</value>
+            <value>Female</value>
+        </allowed_values>
+    </gender>
+</pet>
